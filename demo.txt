@@ -3,5 +3,3 @@ This is an example of how we can use Github to collaborate!
 add your name and the time and date you are making a change to this document. Then submit a pull request. 
 
 Change made by Arielle Mon Oct 24 @ 3:52pm
-
-change made on branch new-feature

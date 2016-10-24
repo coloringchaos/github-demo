@@ -1,23 +1,6 @@
-This is an example file to upload to github. 
+This is an example of how we can use Github to collaborate!
 
-THsi is a change I'm making online on github.
+add your name and the time and date you are making a change to this document. Then submit a pull request. 
 
-another change. 
+Change made by Arielle Mon Oct 24 @ 3:52pm
 
-change by JT @ 7:30pm on Sunday. 
-
-change made by arielle @ 7:41
-
-change made by JT @ 7:45
-
-arielle made change @ 7:46 YAYY
-
-JT change @ 7:50pm
-
-change made by Arielle @ 12:38pm Monday
-
-change made by JT to fix merge conflict
-
-change by june @ 3:33
-
-change by arielle @ 3:34
